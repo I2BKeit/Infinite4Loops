@@ -3,6 +3,6 @@
 
 for (( ; ; ))
 do
-  echo "Press Ctrl+C to stop..."
+  echo "Testing "
   sleep 1
 done
